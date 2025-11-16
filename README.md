@@ -48,4 +48,5 @@ Podés reemplazar mistral por cualquier modelo compatible con Ollama, como:
 - codellama
 - mixtral
 - tinyllama
+  
 Para eso, cambia la configuracione en el Dockerfile y el campo "model" de la peticion http en run.py
